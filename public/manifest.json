@@ -1,0 +1,8 @@
+{
+  "short_name":"依賴書",
+  "name":"樣品依賴書 - Sample Request Form",
+  "start_url":".",
+  "display":"standalone",
+  "theme_color":"#1B4D3E",
+  "background_color":"#F7F5F0"
+}
